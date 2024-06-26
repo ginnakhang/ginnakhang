@@ -14,4 +14,4 @@
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
 
 <h3>Connect with Me!</h3>
-<a href="https://linkedin.com/in/ginnakhang" target="blank"><img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-logo-gif.gif" width="50" /></a>
+<a href="https://linkedin.com/in/ginna-khang" target="blank"><img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-logo-gif.gif" width="50" /></a>
