@@ -6,3 +6,4 @@
 
 
 🎓 Bachelors of Science in Computer Engineering
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
