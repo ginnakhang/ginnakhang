@@ -1,7 +1,7 @@
 <h2>Hello World! 🌱</h2>
 <img align="right" alt="Coding" width="400" src="octocat-1719363238405.png">
 
-<p>I'm currently an Applications Engineering Intern at [SPK and Associates](https://www.spkaa.com/)!</p>
+<p>I'm currently an Software Engineer at [SPK and Associates](https://www.spkaa.com/)!</p>
 
 <p>
   <picture>
